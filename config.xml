@@ -3,7 +3,11 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "zoulak.merchant.app"
+<<<<<<< HEAD
     version   = "2.3">
+=======
+    version   = "2.2">
+>>>>>>> 2e2420ae048aa2a2504886a8b433c0227dff7ffd
     <name>zoulak Order Taking App</name>
     <description>
         zoulak Order Taking App
