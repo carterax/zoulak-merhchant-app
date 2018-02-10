@@ -2,8 +2,8 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
-    id        = "zoulak.merchant.app"
-    version   = "2.3">
+    id        = "com.zoulak.merchant"
+    version   = "2.5">
     <name>zoulak Order Taking App</name>
     <description>
         zoulak Order Taking App
